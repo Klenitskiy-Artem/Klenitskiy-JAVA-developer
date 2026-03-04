@@ -8,7 +8,7 @@ import java.util.Random;
 public class Main {
     public static void main(String[] args) {
         int age = 26;
-        System.out.println("Артем Кленицкий\s" + age);
+        System.out.println("Артем Кленицкий\s" + age); // добаввил в ветке тест
         System.out.println("как дела?");
 
 //  Напишите приложение, которое будет рассчитывать и выведите значение по формуле:
