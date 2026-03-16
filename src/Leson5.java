@@ -1,6 +1,11 @@
 import java.util.Scanner;
 import java.util.Random;
 
+/**
+ * Klenitskiy Atrem
+ * changed 02/03/2026
+ * */
+
 public class Leson5 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);

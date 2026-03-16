@@ -1,6 +1,11 @@
 import java.util.Arrays;
 import java.util.Scanner;
 
+/**
+ * Klenitskiy Atrem
+ * changed 02/03/2026
+ * */
+
 public class Lesson4 {
     public static void main(String[] args) {
 //        Для всех задач исходные условия следующие: пользователь с клавиатурой вводит размер
